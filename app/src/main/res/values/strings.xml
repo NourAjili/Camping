@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Camping</string>
+    <string name="ButtonCaption">Next</string>
+    <string name="TextCaption">Places to Visit in Tunisia</string>
+    <string name="todo">TODO</string>
+    <string name="l">l</string>
+    <string name="k">k</string>
+    <string name="m">m</string>
+    <string name="n">n</string>
+    <string name="f">f</string>
+    <string name="t">t</string>
+    <string name="r">r</string>
+    <string name="skip">Skip</string>
+    <string name="close">close</string>
+</resources>
